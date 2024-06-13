@@ -1,8 +1,8 @@
 
-<p  align="center"><a  href="https://laravel.com"  target="_blank"><img  src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"  width="400"></a></p>
-<p  align="center"><a  href="https://inertiajs.com"  target="_blank"><img  src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4"  width="100" height="100"></a></p>
-<p  align="center"><a  href="https://v3.vuejs.org"  target="_blank"><img  src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67"  width="100" style="max-width:100%;"></a></p>
-<p  align="center"><a  href="https://getbootstrap.com"  target="_blank"><img  src="https://camo.githubusercontent.com/84746920d1a9906680c387b3cc8753ee842e996fc8915abd295011e15b594b74/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e312f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"  width="100" style="max-width:100%;"></a></p>
+<p  align="center"><a  href="https://laravel.com"  target="_blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png"  width="400"></a></p>
+<p  align="center"><a  href="https://inertiajs.com"  target="_blank"><img  src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg"  width="100" height="100"></a></p>
+<p  align="center"><a  href="https://vuejs.org"  target="_blank"><img  src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg"  width="100" style="max-width:100%;"></a></p>
+<p  align="center"><a  href="https://getbootstrap.com"  target="_blank"><img  src=https://i.pinimg.com/originals/41/95/cf/4195cf989fac0128a89669f40a1e3496.png"  width="100" style="max-width:100%;"></a></p>
  
 
   
@@ -10,29 +10,21 @@
 
   
 
-This is a simple web application developed using Laravel 9, Vue.js 3(also Vuex 4), Inertia.js, and Bootstrap v5.1. This application includes authentication and a simple CRUD.
+This is a simple web application developed using the latest version of Laravel, Vue.js 3(also Vuex 4), Inertia.js, and Bootstrap 5. This application includes authentication and a simple CRUD.
 
-I have hosted this application in Heroku. Please find it here.
+I'm trying to keep this up-to-date
 
-https://laravel-vue-inertia.herokuapp.com
-
-<img  src="https://raw.githubusercontent.com/SreejithEzhakkad/laravel8-app/main/public/images/laravel8app.png">
-
-Credentials:
-Email: mail@sreejith.co
-Password: Pa$$w0rd!
-
--  [Laravel](https://laravel.com/docs/9.x)
+-  [Laravel](https://laravel.com/docs)
 - [inertia.js](https://inertiajs.com)
 - [Vue.js](https://vuejs.org/guide/introduction.html)
 - [Vuex](https://vuex.vuejs.org)
-- [Bootstrap](https://getbootstrap.com/docs/5.1)
+- [Bootstrap](https://getbootstrap.com/docs)
 
 ## Installation
 
 Clone the repository.
 
-`$ git clone git@github.com:SreejithEzhakkad/laravel-vue-inertia-bootstrap-app.git`
+`$ git clone git@github.com:Datalink-Wouter/Laravel-Inertia-Bootstrap-Vue.git`
 
   Create a MySQL database. Copy `.env.example` to `.env` and change values.
 Do the following
